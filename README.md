@@ -45,4 +45,7 @@ transformers (by HuggingFace) – for abstractive summarization
 
 
 
+<img width="1000" height="190" alt="text_summarization_output_cleaned" src="https://github.com/user-attachments/assets/ca79b6f7-0315-4998-812a-40baf300a836" />
 
+
+<img width="1000" height="190" alt="text_summarization_output_cleaned" src="https://github.com/user-attachments/assets/ca79b6f7-0315-4998-812a-40baf300a836" />
